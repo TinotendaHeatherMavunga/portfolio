@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name = "viewport" content = "width = device -width">
+<meta name="description" content="Travel and technology in Africa">
+<meta name ="keywords" content = "travel, technology, women in technology,life, adventure, Accra,Ghana,Harare,Zimbabwe">
+<meta name = "author" content="Tinotenda Heather Mavunga">
+<link href='http://fonts.googleapis.com/css?family=Crimson+Text' rel='stylesheet' type='text/css'>
+	<title> Harare to Accra | Welcome </title>
+<link rel="stylesheet" type="text/css" href="./css/style.css">
+</head>
+<body>
+<header>
+<div class = "container">
+<div id = "branding">
+<img src="Harare to Accra.jpg">
+</div>
+<nav>
+<ul>
+<li> <a href=" index.html"> Home </a></li>
+<li> <a href=" About.html"> About </a></li>
+<li> <a href=" Services.html"> Services</a></li>	
+
+
+</ul>	
+
+</nav>
+</header>
+<section id ="showcase">
+ <div class ="container">
+ <h1> Let us discover Ghana together </h1>
+ <p> Young Zimbabwean woman currently discovering Accra,Ghana,This chapter is entirely about how to migrate from HTML4 to HTML5.
+
+This chapter demonstrates how to convert an HTML4 page into an HTML5 page, without destroying anything of the original content or structure. </p>
+</section>
+<section id = "newsletter">
+	<div class="container">
+		<h1>Subscribe to my newsletter</h1>
+		<form>
+			<input type="email" placeholder="Type in your email here">
+			<button type="submit" class="button_1"> Subscribe </button>
+		</form>
+	</div>
+</section>
+
+
+<section id="boxes">
+<div class = "container">
+	<div class = "box">
+	<img src = "img/mac.jpg">
+	<h3>Technology</h3>
+	<p> Come with me on my journey as an entrepreneur in training at the Meltwater School of Entrepreneurial Technology in Accra,Ghana. I will be sharing my personal and professional journey in technology, currently learning to code in Python and HTML,plus of course CSS </p>
+</div>
+
+<div class = "container">
+	<div class ="box">
+	 <img src = "img/tribal.jpg">
+	<h3>Blog</h3>
+	<p> Personal musings on current affairs, I have an opinion sometimes, lets debate, happier if you are sharing it with somebody else</p>
+</div>
+
+<div class = "container">
+	<div class ="box">
+	<img src = "img/leader.jpg">
+	<h3>Leadership</h3>
+	<p> I invite you to explore my journey with me as a black female leader in technology, I have honest stories to share, most of all I strive to maintain a balanced and objective argument, emotions do apply.  </p>
+</div>
+
+</section>
+<footer>
+	<p> Tinotenda Heather Mavunga, Copyright &copy;2017</p>
+</footer>
+
+</body>
+
+</html>

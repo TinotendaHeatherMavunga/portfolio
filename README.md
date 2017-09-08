@@ -2,4 +2,9 @@
 
 i'm TinoTenda
 
+this repertories have 
+
+* index.html
+* about.html
+* README.md
 

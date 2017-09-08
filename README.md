@@ -11,5 +11,13 @@ this repertories have
 * technology.html
 * tino.css
 
+i'am
+
+| name        | country           | step  |
+| ------------- |:-------------:| -----:|
+| Accra      | Ghana | MEST |
+| johburg      | SA      |   mandela |
+| harare | Zimbabwe      |    love |
+
 
 

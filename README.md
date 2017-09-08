@@ -8,5 +8,7 @@ this repertories have
 * about.html
 * README.md
 * SimpleCSS
+* technology.html
+
 
 

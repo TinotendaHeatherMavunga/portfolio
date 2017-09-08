@@ -1,8 +1,8 @@
 # Welcome to my website
 
-i'm TinoTenda
+Name is Tinotenda
 
-this repertories have 
+Repository containts 
 
 * index.html
 * about.html
@@ -10,18 +10,17 @@ this repertories have
 * SimpleCSS
 * technology.html
 * tino.css
+I'm
 
-i'am
-
-| name        | country           | step  |
+| name        | country           | place |
 | ------------- |:-------------:| -----:|
 | Accra      | Ghana | MEST |
-| johburg      | SA      |   mandela |
-| harare | Zimbabwe      |    love |
+| Zimbabwe     | South Africa     |   Africa|
+| Marondera| Johannesburg    |  |Tech
 
-youcan find my website [here](https://tinotendaheathermavunga.github.io/portfolio/)
+Website : [here](https://tinotendaheathermavunga.github.io/portfolio/)
 
-# about me 
+# Biography
 ![alt text](https://image.slidesharecdn.com/digifyjhbprofiles10mar-160315065515/95/digify-60-the-next-generation-of-digital-talent-5-638.jpg "about me")
 
 :smiley::smiley::smiley::smiley::smiley:

@@ -21,7 +21,7 @@ I'm
 Website : [here](https://tinotendaheathermavunga.github.io/portfolio/)
 
 # Biography
-![alt text](https://image.slidesharecdn.com/digifyjhbprofiles10mar-160315065515/95/digify-60-the-next-generation-of-digital-talent-5-638.jpg "about me")
+![alt text
 
 :smiley::smiley::smiley::smiley::smiley:
 
